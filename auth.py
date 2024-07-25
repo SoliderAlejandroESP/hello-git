@@ -1,0 +1,1 @@
+print('Hola, no te puedes verificar porque no eres maricon')
